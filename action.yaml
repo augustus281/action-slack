@@ -1,0 +1,9 @@
+name: 'Notify Slack'
+description: 'This action will send a notification to Slack'
+author: 'drilonrecica '
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'bell'
+  color: 'green'
