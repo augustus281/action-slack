@@ -60,3 +60,8 @@ You can see the action block with all variables as below:
 <!-- Below screenshot help you visualize message part controlled by different variables: -->
 
 <!-- <img width="600" alt="Screenshot_2019-03-26_at_5_56_05_PM" src="https://user-images.githubusercontent.com/4115/54997488-d1f94e00-4ff1-11e9-897f-a35ab90f525f.png"> -->
+
+## Example:
+```yml
+- uses: augustus281/action-slack@v1
+```
